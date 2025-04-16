@@ -48,5 +48,5 @@ build/app/outputs/flutter-apk/app-release.apk
 
 Berikut adalah tampilan aplikasi Flutter yang dibuat berdasarkan tutorial [Flutter Layout](https://docs.flutter.dev/ui/layout/tutorial):
 
-![image](https://github.com/user-attachments/assets/d5222b1e-04a9-4b81-8cca-749713735fa6)  ![image](https://github.com/user-attachments/assets/b1c39bd8-4163-4775-85f2-109712c6b0e3)  
+![image](https://github.com/user-attachments/assets/d5222b1e-04a9-4b81-8cca-749713735fa6)  |  ![image](https://github.com/user-attachments/assets/b1c39bd8-4163-4775-85f2-109712c6b0e3)  
 
