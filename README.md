@@ -27,8 +27,8 @@ Aplikasi ini dikembangkan berdasarkan panduan resmi Flutter:
 ### Cara Instalasi
 
 ```bash
-git clone https://github.com/Fergoajah/Flutter-APK-2-Building-Layouts-.git
-cd Flutter-APK-2-Building-Layouts-
+git clone https://github.com/Fergoajah/Flutter-APK-3-Building-Layouts-.git
+cd Flutter-APK-3-Building-Layouts-
 flutter pub get
 flutter run
 ```
